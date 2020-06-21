@@ -1,4 +1,4 @@
-# reCAPTCHA
+# 2 step factory vue
 
 > captcha from google
 
